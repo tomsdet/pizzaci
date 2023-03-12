@@ -1,0 +1,42 @@
+body{
+  /* background-color: #D2F9F0; */
+  margin-left: 80px;
+}
+
+h2{
+  color: #A92C12;
+}
+
+#musteri-ismi{
+  width:36rem;
+}
+
+.baslik{
+  width: 36rem;
+  margin-top:15px;
+}
+.bolum{
+  margin-top: 15px;
+}
+
+div.alert{
+  width: 36rem;
+  margin-top: 20px;
+}
+
+#siparis-detay{
+  width: 100%;
+  padding: 10px 0;
+  display: none;
+}
+div.social-media{
+  margin-top: 50px;
+}
+button{
+    margin-right: 25px;
+}
+a.social-media-link{
+  text-decoration:none;
+  text: white;
+
+}
